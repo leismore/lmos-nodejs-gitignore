@@ -14,6 +14,8 @@ The `.gitignore` file for [LMOS for Node.js](https://nodejs.lmos.leismore.org) p
 
 ## License
 
+© [Leismore](https://www.leismore.co) 2023
+
 GNU GENERAL PUBLIC LICENSE v3
 
 ## Authors
@@ -23,4 +25,7 @@ GNU GENERAL PUBLIC LICENSE v3
 ---
 
 [![Leismore Logo](https://logos.leismore.co/en/3-0-0/light/textual-margins.svg)](https://lmos.leismore.org)
-*Product of [Leismore OpenSource](https://lmos.leismore.org)*
+
+Product of [Leismore OpenSource](https://lmos.leismore.org)
+
+[Leismore](https://www.leismore.co) (Australian Business Number: 25 935 862 619) is *Your affordable and reliable business software provider* since 2021
