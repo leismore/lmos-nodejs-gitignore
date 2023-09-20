@@ -28,4 +28,4 @@ GNU GENERAL PUBLIC LICENSE v3
 
 Product of [Leismore OpenSource](https://lmos.leismore.org)
 
-[Leismore](https://www.leismore.co) (Australian Business Number: 25 935 862 619) is *Your affordable and reliable business software provider* since 2021
+[Leismore](https://www.leismore.co) (Australian Business Number: 25 935 862 619) is *your affordable and reliable business software provider* since 2021
