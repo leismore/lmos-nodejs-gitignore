@@ -22,6 +22,13 @@ GNU GENERAL PUBLIC LICENSE v3
 
 * [Kyle Chine](https://kyle-chine.leismore.co) since 21 Feb 2021
 
+## References
+
+* Git Documentation: gitignore <https://git-scm.com/docs/gitignore>
+
+
+
+
 ---
 
 [![Leismore Logo](https://logos.leismore.co/en/3-0-0/light/textual-margins.svg)](https://lmos.leismore.org)
